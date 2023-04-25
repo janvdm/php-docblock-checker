@@ -1,5 +1,5 @@
 # PHP DocBlock Checker
-Check PHP files within a directory for appropriate use of Docblocks.
+Check all PHP files within a directory for appropriate use of Docblocks.
 
 ## Installation
 **Composer**:<br>
